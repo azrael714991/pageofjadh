@@ -58,8 +58,8 @@ h1, h2, h3{
 .fundo3{
     background-image: url('./imagem/fundo3.gif');
 }
-.fundo4{
-    background-image: url('./imagem/galaxia.png');
+.fundo4{ 
+    background-image: url('./imagem/fundo9.gif');
 }
 .fundo5{
     background-image: url('/imagem/fundo06.gif');
@@ -70,9 +70,7 @@ h1, h2, h3{
 .fundo7{
     background-image: url('./imagem/fundo6.gif');
 }
-.fundo10{
-    background-image: url(./imagem/euejadh.png);
-}
+
 
 img{
     border-radius: 10px;
