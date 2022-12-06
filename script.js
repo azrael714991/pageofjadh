@@ -88,7 +88,7 @@ $(document).ready(function(){
 
         switch(texto){
             case "3/10": titulo = "03 de Outubro de 2017"; mensagem = "<p>Esse foi o dia do nosso primeiro beijo, lembro que cheguei em casa e falei pra minha mãe que eu ia namorar com você. Fiquei impressionado com o fato que você quis me levar em casa rs</p>";break;
-            case "17/3": titulo = "17 de Outubro de 2017"; mensagem = "<p>Foi a partir desse dia que a gente começou a ficar direto. Gabriel pegou a gente no flagra se beijando na rua kkkkk rs</p>";break;
+            case "17/10": titulo = "17 de Outubro de 2017"; mensagem = "<p>Foi a partir desse dia que a gente começou a ficar direto. Gabriel pegou a gente no flagra se beijando na rua kkkkk rs</p>";break;
             case "3/3": titulo = "03 de Março de 2018"; mensagem = "<p>O dia que eu me senti mais nervoso na minha vida, o dia que eu finalmente te pedi em namoro, o meu unico arrependimento foi não ter te pedido antes. Fiquei nervoso ao falar com os seus pais na sala e com a Gabi rindo de mim... No final chegammos no seu portão, eu pedi e vc disse sim e foi a melhor sensação que eu tive na vida.";break;
             case "25/3": titulo = "25 de Março de 2018"; mensagem = '<p>Foi a primeira vez que eu falei eu te amo.. Cheio de vergonha, nem parece que ia falar isso todos os dias e muito menos que ia querer falar isso pelo resto da vida.</p>';break;
         }
