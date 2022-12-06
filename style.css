@@ -59,10 +59,10 @@ h1, h2, h3{
     background-image: url('./imagem/fundo3.gif');
 }
 .fundo4{
-    background-image: url('/imagem/galaxia.png');
+    background-image: url('./imagem/galaxia.png');
 }
 .fundo5{
-    background-image: url('/imagem/fundo6.gif');
+    background-image: url('/imagem/fundo06.gif');
 }
 .fundo6{
     background-image: url('./imagem/fundo9.gif');
